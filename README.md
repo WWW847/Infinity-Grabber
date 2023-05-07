@@ -1,6 +1,6 @@
 # Infinity-Grabber
 - The best discord token grabber made in python
-- For purchases of the grabber dm 'Lucoz#5776' on discord
+- For purchases of the grabber dm #'Lucoz#5776' on discord
 - I accept Paypal and Bitcoin (BTC)
 
 ## Features
