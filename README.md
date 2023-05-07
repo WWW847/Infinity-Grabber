@@ -1,7 +1,6 @@
 # Infinity-Grabber
 - For purchases of the grabber pm 'Lucoz#5776' on discord
 
-'''
 ## Features
 
 - Discord Info
