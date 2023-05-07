@@ -1,5 +1,6 @@
 # Infinity-Grabber
 - The best discord token grabber made in python
+- When you purchase you will only recurve the key
 
 ## Social
 - Discord: Lucoz.#5776
